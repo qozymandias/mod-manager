@@ -1,0 +1,3 @@
+/home/oscar/dev/game/test/mod-manager/CMakeFiles/rebuild_cache.dir
+/home/oscar/dev/game/test/mod-manager/CMakeFiles/edit_cache.dir
+/home/oscar/dev/game/test/mod-manager/CMakeFiles/mod-manager.dir

@@ -1,0 +1,8 @@
+[requires]
+catch2/2.11.1
+libpq/13.4
+boost/1.76.0
+cpprestsdk/2.10.18
+
+[generators]
+cmake
